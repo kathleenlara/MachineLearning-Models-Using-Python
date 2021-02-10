@@ -1,7 +1,6 @@
 # Machine Learning Models
 
-
-This project is for Apprentice Chef - an innovative startup.
+This data modeling project is for Apprentice Chef - an innovative startup.
 
 ## Business Problem:
 Understand how much revenue to expect from each customer within their first year of using their services.

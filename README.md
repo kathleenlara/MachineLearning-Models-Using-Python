@@ -20,3 +20,6 @@ I've uploaded a file named Apprentice Chef Dictionary
 - LASSO
 - KNN
 - Comparing the results
+
+# Author
+https://www.kathleenlara.com/

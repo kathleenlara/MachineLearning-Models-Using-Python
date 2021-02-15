@@ -1,9 +1,9 @@
 # Machine Learning Models
 
-This data modeling project is for Apprentice Chef - an innovative startup.
+This data modeling project is for Apprentice Chef - an innovative startup. 
 
-## Business Problem:
-Understand how much revenue to expect from each customer within their first year of using their services.
+## Goal
+Develop top insights and build a machine learning model that will predict revenue over the first year of each customer’s life cycle..
 
 ## Solving the Problem:
 I explored the dataset and did some feature engineering to help me with my regression analysis. I tried different models to predict what variables are correlated to the REVENUE and can give me a better prediction of what to expect from each customer.
